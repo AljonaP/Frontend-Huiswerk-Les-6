@@ -70,11 +70,11 @@ const squares = [30, 2, 8, 24, 11];
 let numberOfSquares = squares.length;
 
 for (i = 0; i < numberOfSquares; i++) {
-    console.log(Math.pow (squares[i], 3)); // hier verheffen we tot 3de graad
+    console.log(Math.pow (squares[i], 3)); // hier verheffen we totgot 3de graad
 }
 
 // Aljona's commentaar:
-// Variant 2.
+// Variant 2
 //
 // const squares = [30, 2, 8, 24, 11];
 // let numberOfSquares = squares.length;
